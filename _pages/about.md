@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Hongbo Jin(靳宏博)"
 author_profile: true
 redirect_from: 
   - /about/
