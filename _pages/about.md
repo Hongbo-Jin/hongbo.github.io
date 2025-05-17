@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hongbo Jin(靳宏博)"
+title: "My personal academic homepage"
 author_profile: true
 redirect_from: 
   - /about/
