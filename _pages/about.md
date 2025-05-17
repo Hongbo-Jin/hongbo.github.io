@@ -9,9 +9,21 @@ redirect_from:
 
 
 A short introduction about me
-======
+------
 Hello, my name is Hongbo. I'm a first-year PhD student at Peking University, supervised by Prof. Ge Li.
 My research interests include large language models, reinforcement learning, computer vision.
+
+My Publications
+------
+TEOcc: Radar-Camera Multi-Modal Occupancy Prediction via Temporal Enhancement  (ECAI2024)
+
+Z Lin, **H Jin**, Y Wang, Y Wei, N Dong
+
+CoT-Vid: Dynamic Chain-of-Thought Routing with
+Self Verification for Training-Free Video Reasoning
+(Arxiv 2025)
+
+**Hongbo Jin**, Ruyang Liu, Wenhao Zhang, Guibo Luo, Ge Li
 
 
 For more information
