@@ -22,8 +22,8 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "./files/Avatar.jpg"
-  name             : "Your Sidebar Name"
+  avatar           : "Avatar.jpg"
+  name             : "Hongbo Jin(靳宏博)"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
