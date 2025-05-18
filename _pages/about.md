@@ -1,12 +1,11 @@
 ---
 permalink: /
-title: "My personal academic homepage"
+title: "Hi, I'm Hongbo Jin (靳宏博)"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
 
 
 A short introduction about me
