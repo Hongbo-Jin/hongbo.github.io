@@ -7,7 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-
 A short introduction about me
 ------
 Hello, my name is Hongbo. I'm a first-year PhD student at Peking University, supervised by Prof. Ge Li.
@@ -17,12 +16,14 @@ My Publications
 ------
 <sup>‡</sup>Co-first authors, <sup>*</sup>Corresponding author.
 
-TEOcc: Radar-Camera Multi-Modal Occupancy Prediction via Temporal Enhancement  (ECAI2024)<br>
+TEOcc: Radar-Camera Multi-Modal Occupancy Prediction via Temporal Enhancement  [(ECAI2024)](https://ebooks.iospress.nl/doi/10.3233/FAIA240480)
+<br>
 Z Lin<sup>‡</sup>, **H Jin**<sup>‡</sup>, Y Wang<sup>*</sup>, Y Wei, N Dong
 
 CoT-Vid: Dynamic Chain-of-Thought Routing with
 Self Verification for Training-Free Video Reasoning
-(Arxiv 2025)<br>
+[(Arxiv 2025)]()
+<br>
 **Hongbo Jin**<sup>‡</sup>, Ruyang Liu<sup>‡</sup>, Wenhao Zhang<sup>‡</sup>, Guibo Luo, Ge Li<sup>*</sup>
 
 Enhancing Long Video Detail Perception with Scene-Localized
