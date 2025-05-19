@@ -15,6 +15,8 @@ My research interests include large language models, reinforcement learning, com
 
 My Publications
 ------
+<sup>‡</sup>Co-first authors, <sup>*</sup>Corresponding author.
+
 TEOcc: Radar-Camera Multi-Modal Occupancy Prediction via Temporal Enhancement  (ECAI2024)
 
 Z Lin<sup>‡</sup>, **H Jin**<sup>‡</sup>, Y Wang<sup>*</sup>, Y Wei, N Dong
