@@ -17,19 +17,19 @@ My Publications
 ------
 TEOcc: Radar-Camera Multi-Modal Occupancy Prediction via Temporal Enhancement  (ECAI2024)
 
-Z Lin, **H Jin**, Y Wang, Y Wei, N Dong
+Z Lin<sup>‡</sup>, **H Jin**<sup>‡</sup>, Y Wang<sup>*</sup>, Y Wei, N Dong
 
 CoT-Vid: Dynamic Chain-of-Thought Routing with
 Self Verification for Training-Free Video Reasoning
 (Arxiv 2025)
 
-**Hongbo Jin**, Ruyang Liu, Wenhao Zhang, Guibo Luo, Ge Li
-
+**Hongbo Jin**<sup>‡</sup>, Ruyang Liu<sup>‡</sup>, Wenhao Zhang<sup>‡</sup>, Guibo Luo, Ge Li<sup>*</sup>
 
 Enhancing Long Video Detail Perception with Scene-Localized
 Frame Grouping (Arxiv 2025)
 
-Xuyi Yang, Wenhao Zhang, **Hongbo Jin**, Yongwei Nie, Hongboxu, Huicong Zhang, Fei Ma, Fei Yu 
+Xuyi Yang<sup>‡</sup>, Wenhao Zhang<sup>‡</sup>, **Hongbo Jin**<sup>‡</sup>, Yongwei Nie, Hongboxu, Huicong Zhang, Fei Ma<sup>*</sup>, Fei Yu 
+
 
 For more information
 ------
