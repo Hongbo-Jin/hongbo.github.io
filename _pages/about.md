@@ -27,7 +27,7 @@ Self Verification for Training-Free Video Reasoning
 **Hongbo Jin**<sup>‡</sup>, Ruyang Liu<sup>‡</sup>, Wenhao Zhang<sup>‡</sup>, Guibo Luo, Ge Li<sup>*</sup>
 
 Enhancing Long Video Detail Perception with Scene-Localized
-Frame Grouping (Arxiv 2025)
+Frame Grouping [(Arxiv 2025)]()
 <br>
 Xuyi Yang<sup>‡</sup>, Wenhao Zhang<sup>‡</sup>, **Hongbo Jin**<sup>‡</sup>, Yongwei Nie, Hongboxu, Huicong Zhang, Fei Ma<sup>*</sup>, Fei Yu 
 
