@@ -22,7 +22,7 @@ Z Lin<sup>‡</sup>, **H Jin**<sup>‡</sup>, Y Wang<sup>*</sup>, Y Wei, N Dong
 
 CoT-Vid: Dynamic Chain-of-Thought Routing with
 Self Verification for Training-Free Video Reasoning
-[(Arxiv 2025)]()
+[(Arxiv 2025)](https://arxiv.org/abs/2505.11830)
 <br>
 **Hongbo Jin**<sup>‡</sup>, Ruyang Liu<sup>‡</sup>, Wenhao Zhang<sup>‡</sup>, Guibo Luo, Ge Li<sup>*</sup>
 
